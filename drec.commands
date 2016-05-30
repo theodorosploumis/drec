@@ -1,0 +1,11 @@
+# Extra commands (user based)
+
+# 1) Available variables for the commands can be found at drec.sh file
+#
+# 2) Add one or more commands like this. Only single dashes (-) allowed.
+# command_name=~/path/to/command-name.sh
+# command-name=~/path/to/command-name.sh
+# commandName=~/path/to/command-name.sh
+#
+# 3) See examples of command scripts at folder "commands"
+#

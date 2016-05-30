@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# A template to create new commands. Change this to be a short description
+
+# Available variables to use. Leran about the variables at the commands/setup.sh script.
+#
+# PROJECT_TITLE
+# REPO
+# ROOT
+# PROFILE
+# BRANCH
+# DOMAIN
+# PROJECT_PATH
+# DOCKER_PORT_HTTP
+# DOCKER_PORT_SSH
+# DOCKER_IMAGE
+# IMAGE_GITHUB
+# CONTAINER_NAME
+# DATABASE
+# VHOST
+# MYSQL_USER
+# MYSQL_PASS
+# MYSQL_PORT
+# PROJECT_SETTINGS
+#
