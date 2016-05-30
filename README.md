@@ -154,7 +154,6 @@ See a more complete list at [Drupal (local) development tools](http://goo.gl/ucw
  - [meosch/localdevsetup](https://github.com/meosch/localdevsetup)
  - [acquia/blt](https://github.com/acquia/blt)
 
-See a complete [list of Drupal Development tools](goo.gl/VNytQa).
 
 ### License
 
