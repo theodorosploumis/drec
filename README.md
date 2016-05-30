@@ -150,9 +150,9 @@ See a more complete list at [Drupal (local) development tools](http://goo.gl/ucw
  - [reactivestudio/SH](https://github.com/reactivestudio/SH)
  - [rafaqz/drupal_build_scripts](https://github.com/rafaqz/drupal_build_scripts)
  - [alexharries/drupal-scripts-of-usefulness](https://github.com/alexharries/drupal-scripts-of-usefulness)
- - [felloe/drecinstaller](https://github.com/felloe/drecinstaller)
+ - [felloe/drec8installer](https://github.com/felloe/drec8installer)
  - [meosch/localdevsetup](https://github.com/meosch/localdevsetup)
- - [acquia/bolt](https://github.com/acquia/bolt)
+ - [acquia/blt](https://github.com/acquia/blt)
 
 See a complete [list of Drupal Development tools](goo.gl/VNytQa).
 
