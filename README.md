@@ -150,7 +150,7 @@ See a more complete list at [Drupal (local) development tools](http://goo.gl/ucw
  - [reactivestudio/SH](https://github.com/reactivestudio/SH)
  - [rafaqz/drupal_build_scripts](https://github.com/rafaqz/drupal_build_scripts)
  - [alexharries/drupal-scripts-of-usefulness](https://github.com/alexharries/drupal-scripts-of-usefulness)
- - [felloe/drec8installer](https://github.com/felloe/drec8installer)
+ - [felloe/drupal8installer](https://github.com/felloe/drupal8installer)
  - [meosch/localdevsetup](https://github.com/meosch/localdevsetup)
  - [acquia/blt](https://github.com/acquia/blt)
 
