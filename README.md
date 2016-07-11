@@ -59,8 +59,8 @@ drec
 | delete-docker | Delete a docker container |
 | create-drush | Create a drush alias |
 | delete-drush | Delete a drush alias |
-| composer install | Run `composer install` on the project folder |
-| composer project | Run `composer create-project ...` on the project folder |
+| composer-install | Run `composer install` on the project folder |
+| composer-project | Run `composer create-project ...` on the project folder |
 | create-db | Create a mysql database |
 | download-db | Download a mysql database |
 | delete-db | Delete a mysql database |
