@@ -148,7 +148,7 @@ read -r READ_SETTINGS_FILE
 
 if [[ "${READ_SETTINGS_FILE}" && ! -e "$HOME/.drec/${READ_SETTINGS_FILE}.drecfile" ]]
 then
-  PROJECT_SETTINGS="$HOME/.drec/${READ_SETTINGS_FILE}"
+  PROJECT_SETTINGS="$HOME/.drec/${READ_SETTINGS_FILE}.drecfile"
 else
   echo -n ">> Using default value, continue.\n"
 fi
