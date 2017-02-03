@@ -4,6 +4,8 @@ DRupal Eight Commands (DR.E.C.)
 
 Drupal 8.x development scripts.
 
+![DREC logo](https://raw.githubusercontent.com/theodorosploumis/drec/master/drec-logo.png)
+
 ### About
 A collection of basic bash scripts that work together to accomplish common
 development tasks for **Drupal 8.x** projects.
