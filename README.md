@@ -1,10 +1,10 @@
+<img src="drec-logo.png" align="right" alt="drec logo">
+
 ## drec
 
 DRupal Eight Commands (DR.E.C.)
 
 Drupal 8.x development scripts.
-
-![DREC logo](https://raw.githubusercontent.com/theodorosploumis/drec/master/drec-logo.png)
 
 ### About
 A collection of basic bash scripts that work together to accomplish common
