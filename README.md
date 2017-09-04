@@ -148,6 +148,7 @@ See a more complete list at [Drupal (local) development tools](http://goo.gl/ucw
  - [jazio/drustalls](https://github.com/jazio/drustalls)
  - [electrickite/damp](https://github.com/electrickite/damp)
  - [geraldvillorente/drupaltools](https://github.com/geraldvillorente/drupaltools)
+ - [anavarre/drupal-8-tools](https://github.com/anavarre/drupal-8-tools)
  - [unb-libraries/pushback](https://github.com/unb-libraries/pushback)
  - [psynaptic/bash_kit](https://github.com/psynaptic/bash_kit)
  - [reactivestudio/SH](https://github.com/reactivestudio/SH)
